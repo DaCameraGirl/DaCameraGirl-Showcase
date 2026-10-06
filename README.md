@@ -20,11 +20,11 @@
 
 **Try it:** Combine a few favorite sounds and create something unexpected.
 
-### 🎃 [Haunt City](https://dacameragirl.github.io/haunt-city-halloween-heat/)
+### 🎃 [Chase's Parody GTA Haunt](https://dacameragirl.github.io/Chases_Parody_GTA_Haunt/)
 
-**For spooky-game people.** Step into Halloween Heat, grab six stashes, dodge No-Face, and race back to the safehouse. This one has atmosphere, candy bombs, and a little bit of trouble waiting for you.
+**For spooky-game people.** Explore Chase's stormy Halloween neighborhood, dodge No-Face and the drain clowns, and get back to the safehouse.
 
-**Try it:** Start the game and see how far you get before the city gets weird.
+**Try it:** Start the game, approach a drain, and watch for the clown!
 
 ### ◈ [GLB Factory](https://dacameragirl.github.io/GLB_FACTORY/)
 
@@ -37,6 +37,12 @@
 **For anyone baffled by sports odds.** This beginner-friendly guide helps translate odds into understandable numbers, including what a wager could return. It's a learning tool, so you can explore the math before making any real-world decisions.
 
 **Try it:** Change the odds and compare the possible payouts.
+
+### 🧭 [Compass Ultra](https://www.compassultra.com/)
+
+**For developers who want safer releases.** Explore risk analysis, change comparisons, and safety checks for software deployments.
+
+**Try it:** Open the dashboard and see how Compass Ultra helps evaluate release readiness.
 
 ## About this little website
 
