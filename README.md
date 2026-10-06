@@ -4,6 +4,12 @@
 
 **Hi, I'm Angela.** I like turning a “what if?” into something you can click, play, or share. This is my little corner of the internet for the things I've made. You don't need to know anything about code to enjoy it. Pick a card, tap **Live Project**, and have a look around.
 
+## Different minds. Same mission. 💜
+
+![Angela, Chloe, Claude, and Cheetah together, celebrating creativity, ethics, and building a brighter future](assets/claude-cheetah-angela.png)
+
+*Ideas. Build. Deploy. Repeat. A brighter, more ethical tomorrow.*
+
 ### [🎟️ Visit the live showcase](https://dacameragirl-showcase.vercel.app/)
 
 ## Start with what sounds fun
