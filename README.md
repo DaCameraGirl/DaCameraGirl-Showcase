@@ -6,7 +6,7 @@
 
 ## Different minds. Same mission. 💜
 
-![Angela, Chloe, Claude, and Cheetah together, celebrating creativity, ethics, and building a brighter future](assets/claude-cheetah-angela.png)
+![Angela, Chloe, Claude, and AI collaborators together, celebrating creativity, ethics, and building a brighter future](assets/claude-cheetah-angela.png)
 
 *Ideas. Build. Deploy. Repeat. A brighter, more ethical tomorrow.*
 
