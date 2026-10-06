@@ -30,3 +30,30 @@
   .brand,.site-header nav a,.footer a{display:inline-flex;align-items:center;min-height:44px}
   .phone-share a{display:inline-flex;align-items:center;min-height:36px}
 }
+
+
+/* Keep all four faces visible in the showcase group portrait. */
+@media (min-width: 851px) {
+  .hero {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1.12fr);
+    gap: clamp(28px, 4vw, 52px);
+  }
+}
+.hero-art.hero-portrait {
+  width: 100%;
+  height: auto;
+  min-width: 0;
+  max-width: 560px;
+  justify-self: center;
+}
+.hero-portrait img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: auto;
+  object-fit: contain;
+  object-position: center;
+}
+@media (max-width: 650px) {
+  .hero-art.hero-portrait { max-width: 460px; }
+}
